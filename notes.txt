@@ -1,0 +1,22 @@
+BYU AI Bootcamp
+
+Computer Setup
+1. Signed up for Claude Pro
+2. Created a GitHub Account
+3. Created a Supabase account (With GitHub account)
+4. Created a Vercel account
+5. Installed VS Code
+	* Check add path
+	* Enable 'Open with code'
+6. Start up Claud Code within VS
+	* irm https://claude.ai/install.ps1 | iex
+	* claude --version
+	
+Install optional AI Agents
+Gemini CLI (Google)
+	npm install -g @google/gemini-cli
+GitHub CoPilot (Microsoft)
+	npm install -g @github/copilot
+Codex (OpenAI)
+	npm install -g @openai/codex
+	
